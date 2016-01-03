@@ -1,0 +1,8 @@
+body {
+	overflow-y: scroll;
+}
+
+tr.watched {
+	text-decoration: line-through;
+	opacity: 0.3;
+}
